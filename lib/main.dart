@@ -56,23 +56,6 @@ class _MyPageViewState extends State<MyPageView> {
         );
       },
     );
-
-    // return PageView(
-    //   scrollDirection: Axis.vertical,
-    //   // scrollBehavior: ScrollBehavior(),
-    //   controller: controller,
-    //   children: const <Widget>[
-    //     Center(
-    //       child: Text("First"),
-    //     ),
-    //     Center(
-    //       child: Text("Second"),
-    //     ),
-    //     Center(
-    //       child: Text("Third"),
-    //     ),
-    //   ],
-    // );
   }
 }
 
